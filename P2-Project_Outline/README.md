@@ -30,6 +30,9 @@ of the site.
 ### Technologies
 .net6
 mySQL - to store user info for input tasks
+javascript
+vs code
+
 ### What I'll Have to Learn
 Something that will be new to me is learning how to share/incorporate a calendar like google calendar 
 or ical. This will require utilizing an API and figuring out how to code that piece of the application.
