@@ -18,6 +18,7 @@ https://www.linkedin.com/in/erica-johnson-m-s-ccc-slp-75736549/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://docs.google.com/document/d/1nFhlsSnzTK_4RCBw5F_pTK3rLNLLXZaI46KXLgOr5Ao/edit?usp=sharing
 
 https://docs.google.com/document/d/1nFhlsSnzTK_4RCBw5F_pTK3rLNLLXZaI46KXLgOr5Ao/edit?usp=sharing
 
