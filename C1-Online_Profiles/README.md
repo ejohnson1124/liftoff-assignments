@@ -13,8 +13,7 @@ https://github.com/ejohnson1124
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-https://www.linkedin.com/in/erica-johnson-m-s-ccc-slp-75736549/
-
+https://www.linkedin.com/in/erica-s-johnson-stl/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
